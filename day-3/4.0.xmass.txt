@@ -1,0 +1,26 @@
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+      * * *
+      * * *
+      * * *
+
+   Happy Xmass
+-------------------
+
+try to create dynamic xmass tree
+
+this is a complex question
+start by 
+- 4.1.pyramid-left
+- 4.2.pyramid-right
+- 4.3.pyramid-left-right
+then come back

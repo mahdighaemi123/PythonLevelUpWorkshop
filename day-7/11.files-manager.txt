@@ -1,0 +1,5 @@
+try to create function for these:
+- read files name from a folder
+- read content of a text file 
+- read lines of a text file
+- read birary file

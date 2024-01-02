@@ -1,0 +1,9 @@
+we have two part:
+    server
+    client
+
+server have all the cities temp
+
+user enter what city temp want to see in client cli
+then cli ask the server what is the temp for this city using api
+after that cli wil show temp recived from server to the user

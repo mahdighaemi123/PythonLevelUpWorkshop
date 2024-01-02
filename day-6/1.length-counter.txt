@@ -1,0 +1,15 @@
+create length-counter cli like this:
+
+---------------------------
+        Length-Counter
+---------------------------
+Supported actions:
+1. count alphabet characters ([a-z],[A-Z])
+2. count numberic characters ([0-9])
+3. count words (split by " ")
+4. count sentances (split by ".")
+---------------------------
+> enter your text: 1 2 salam 3
+> enter your target actions: 12
+alphabet characters: 5
+character numbers: 3

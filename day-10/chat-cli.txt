@@ -1,0 +1,7 @@
+Terminal for client wich user can enter name and it messages:
+------------------------
+       CHAT ROOM
+------------------------
+> Enter your name: <name>
+> Enter your message: <message_1>
+> Enter your message: <message_2>

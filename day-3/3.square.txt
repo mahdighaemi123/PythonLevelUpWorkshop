@@ -1,0 +1,14 @@
+get two input number from user name them w,h
+print square like this for 4,3
+aaaa 
+bbbbb
+aaaa
+bbbbb
+aaaa
+bbbbb
+aaaa
+
+print squere like this for 1,1
+ _
+| |
+ _

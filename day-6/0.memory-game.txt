@@ -1,0 +1,17 @@
+create memory game cli like this (3 number 1-9):
+
+------------------------
+       Memory Game
+------------------------
+save numbers in your
+memory, then we ask
+what was the numbers
+------------------------
+1 5 7
+(wait 3 sec) then (10 empty line)
+> enter numbers: 1 3 5
+you lose anwnser is 1 5 7 :(
+1 1 1
+(wait 3 sec) then (10 empty line)
+> enter numbers: 1 1 1
+you win correct anwnser:)

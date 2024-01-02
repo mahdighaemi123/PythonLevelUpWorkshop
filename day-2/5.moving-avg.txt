@@ -1,0 +1,12 @@
+we have a price list like this:
+
+[1,2,3,4,5]
+
+we want to create moving average of 3 then print it 
+meaning each place is 3 previuse price avg
+
+None , None , (1+2+3)/3 , (2+3+4)/3 , (3,4,5)/3
+
+will result to print this:
+
+[None,None,2.0,3.0,4.0]

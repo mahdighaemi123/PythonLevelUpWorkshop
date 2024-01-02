@@ -1,0 +1,7 @@
+Server have this configs
+- path (target folder to sync)
+- token (password for auth)
+
+Server provide two api to client:
+- POST get_file_hash return hash of that file in path + <name of file>
+- POST upload_file it save file to path + <name of file>

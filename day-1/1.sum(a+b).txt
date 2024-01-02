@@ -1,0 +1,2 @@
+get two input numbers from user = > name them a,b
+print a+b in terminal

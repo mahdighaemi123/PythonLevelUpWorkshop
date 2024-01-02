@@ -1,0 +1,11 @@
+create math game cli like this (only +,-)(number ):
+
+------------------------
+       Math Game
+------------------------
+what is result of 3 * 3 
+> 10
+you lose anwnser is 9 :(
+what is result of 2 + 18
+> 22
+you win correct anwnser :)

@@ -1,0 +1,4 @@
+user enter one line text input like this
+"red green blue"
+you shoud tell user how many color it entered
+here you shoud print 3

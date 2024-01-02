@@ -1,0 +1,8 @@
+here we have two part:
+    server 
+    client
+
+we have target folder in client side
+and we want to upload files to server when
+    1.they dont exist in server
+    2.client have diffrent version of that file

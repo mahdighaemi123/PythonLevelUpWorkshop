@@ -1,0 +1,5 @@
+Terminal for client wich showing all messges like this:
+    ali joined
+    Mahdi joined
+    ali: hi 
+    Mahdi hi

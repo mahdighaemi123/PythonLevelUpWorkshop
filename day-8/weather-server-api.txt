@@ -1,0 +1,16 @@
+we have json file like this:
+{
+    "hamedan":22,
+    "tehran":30,
+    "shiraz":32
+}
+
+create a api for it:
+    /                              -> "weather api is running"
+    /get_temp?city=hamedan         -> return temp of requested city
+    
+optional apis:
+    /get_temps                     -> return json of temps file
+    /add_temp?city=hamedan&temp=10 -> add and save it to temps json file
+
+use HTTP GET METHOD

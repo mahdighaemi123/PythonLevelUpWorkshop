@@ -1,0 +1,8 @@
+get a input from user => call it name
+
+print name like this:
+name: mahdi
+
+1.mahdi
+2.Mahdi
+3.MAHDI

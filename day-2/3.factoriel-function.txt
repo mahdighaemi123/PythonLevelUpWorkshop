@@ -1,0 +1,8 @@
+create function for factoriel
+get input from user an call factoriel function with it
+and print the result of function
+
+user input is: 5
+5! = 1*2*3*4*5 = 120
+
+print 120 in terminal

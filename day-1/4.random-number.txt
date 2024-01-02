@@ -1,0 +1,3 @@
+get min,max number from user input
+
+print random number between min, max using random lib in python

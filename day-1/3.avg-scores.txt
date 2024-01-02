@@ -1,0 +1,5 @@
+get a input number from user => name it n
+
+get n numbers input from user => name it scores
+
+print avg of scores and print it to terminal

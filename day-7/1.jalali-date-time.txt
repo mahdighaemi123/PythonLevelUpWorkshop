@@ -1,0 +1,6 @@
+create jalali-date-clock script like this:
+
+20:12:20
+19 Farvardin 1381
+
+print it every second

@@ -1,0 +1,15 @@
+from last question
+we want to add statistic here
+--------------------------------------------------
+
+print this for each class to:
+
+- class 1:
+student count
+min score
+max score
+avg score
+sum score
+
+- class 2
+...

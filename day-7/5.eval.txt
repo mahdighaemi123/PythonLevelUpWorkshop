@@ -1,0 +1,1 @@
+get one line input from user and run it as python code

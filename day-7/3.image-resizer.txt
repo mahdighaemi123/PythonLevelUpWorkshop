@@ -1,0 +1,2 @@
+read image from path("image.png") 
+then resize it to 1024,1024 (3 chanel)

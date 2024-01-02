@@ -1,0 +1,4 @@
+get a input number from user and name it temp
+
+if temp eqaule or grater then 20 print "turn off the heater"
+else print "turn on the heater"

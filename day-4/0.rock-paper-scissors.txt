@@ -1,0 +1,14 @@
+create rock-paper-scissors game cli like this:
+
+------------------------
+Rock Paper Scissors Game
+------------------------
+You can play with:
+1.Rock
+2.Paper
+3.Scissors
+------------------------
+> what do you pick: rock
+you win i choosed scissors :(
+> what do you pick: scissors
+you loose i choosed rock :)

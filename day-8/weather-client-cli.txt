@@ -1,0 +1,9 @@
+create cli like this : 
+
+------------------------
+        Weather
+------------------------
+> enter your city: hamedan
+hamedan temp is 22°C 
+> enter your city: tehran
+tehran temp is 20°C 

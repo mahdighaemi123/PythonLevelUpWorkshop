@@ -1,0 +1,10 @@
+find out from 1 to 10 with what numbers we can create triangle
+
+we knkow triangle have tree a,b,c
+and this rules must maid 
+a + b > c
+a + c > b
+c + b > a
+
+print numbers we can like:
+3 5 7

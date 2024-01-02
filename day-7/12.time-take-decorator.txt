@@ -1,0 +1,2 @@
+use decorator for calculate how much 
+toke to running this funtion.

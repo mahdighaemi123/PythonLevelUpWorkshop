@@ -1,0 +1,7 @@
+get a input number from user name it n
+print pyramid like this for n=5
+*
+* *
+* * * 
+* * * *
+* * * * *

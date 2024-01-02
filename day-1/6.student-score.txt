@@ -1,0 +1,8 @@
+we have students and each student have a name and score
+
+like this:
+mahdi 10
+ali 20
+
+get a input from user call it student name
+print student score in terminal

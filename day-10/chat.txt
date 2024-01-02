@@ -1,0 +1,5 @@
+in this project users can join to chat to each other
+we have 3 part:
+    chat-server   -> our socket server
+    chat-cli      -> where user can input name and messages
+    chat-messages -> where user can see all messages and joined users

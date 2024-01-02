@@ -1,0 +1,5 @@
+we have sequences like this
+1 8 27 125 ... (i**3)
+1 3 5 7 ...  (a0 + (i-1))
+3 6 12 24 ... ( a0 + d**(i-n))
+find 1000 numbr from this sequences

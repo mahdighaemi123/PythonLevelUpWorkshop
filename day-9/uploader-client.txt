@@ -1,0 +1,9 @@
+Client have this configs
+- path (target folder to sync)
+- check_interval (cehck every n second)
+- server_url (server ip and port address ot domain)
+- token (password for auth)
+
+it check files in <path> every <check_interval> second
+if changes happend in files then client upload that file to server using <server_url> and <token>
+update check happend with hash of file (first using local cache then cehck hash from server)

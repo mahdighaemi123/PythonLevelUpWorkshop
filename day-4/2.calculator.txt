@@ -1,0 +1,15 @@
+create calculator cli like this:
+
+---------------------------
+         Calculator
+---------------------------
+Supported actions:
+1. add with +
+2. substract with -
+3. multiply with *
+4. divide with /
+---------------------------
+> 10/5
+2
+> 1000-1
+999

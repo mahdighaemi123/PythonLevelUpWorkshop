@@ -1,0 +1,7 @@
+create divide function and only using while and substract
+return remainder , count
+
+for example:
+10/3
+remainder->1        
+count->3 

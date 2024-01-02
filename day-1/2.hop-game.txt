@@ -1,0 +1,14 @@
+we have hop game here 
+
+print 1 to 100 like this (every 5 number we say hop)
+1
+2
+3
+4
+hop
+6
+7
+8
+9
+hop
+...

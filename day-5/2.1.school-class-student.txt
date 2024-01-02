@@ -1,0 +1,49 @@
+we have one school and lots of students in multiple class 
+and each student have a score
+(use oop here to model this)
+
+schema:
+
+School:
+
+- class 1 
+  ali 20.0
+  mahdi 10.0
+
+- class 2
+  reza 15
+  ..
+
+- class ..
+  ..
+
+--------------------------------------------------
+
+1-get class count from user
+2-get students count per class
+3-get student name and score from one line input
+
+for example:
+
+enter class count: 2
+
+enter class 1 student count: 2
+enter person1 name and score:mahdi 10
+enter person2 name and score:ali 10
+
+enter class 2 student count: 1
+enter person1 name and score:reza 15
+
+--------------------------------------------------
+
+print what we have like this:
+
+school:
+
+- class 1 
+  ali 20.0
+  mahdi 10.0
+
+- class 2
+  reza 15
+  ..

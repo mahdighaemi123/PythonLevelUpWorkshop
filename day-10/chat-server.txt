@@ -1,0 +1,2 @@
+Chat server with clear logs what happening
+also use socket io lib

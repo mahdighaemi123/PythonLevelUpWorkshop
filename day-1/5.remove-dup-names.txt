@@ -1,0 +1,7 @@
+get a one line input text from user => ali mahdi ...
+
+split them by space
+
+remove duplicate names
+
+print all unique names in one line like => ali,mahdi,...

@@ -1,0 +1,6 @@
+create date-clock script like this:
+
+20:12:20
+12 November 2024
+
+print it every second

@@ -1,0 +1,37 @@
+create To-do list cli like this:
+also it shoud save task in tasks.json
+
+------------------------
+     To-Do list CLI     
+------------------------
+1. [ ] Clean house
+2. [✓] Play game
+3. [ ] Write a blog post
+
+------------------------
+         Options        
+------------------------
+1. Add new task
+2. Mark task as completed
+3. Remove task
+4. Exit
+
+
+for empty list show this:
+
+------------------------
+     To-Do list CLI     
+------------------------
+       empty list
+
+------------------------
+         Options        
+------------------------
+1. Add new task
+2. Mark task as completed
+3. Remove task
+4. Exit
+
+then:
+> enter option number:
+> enter task title: 

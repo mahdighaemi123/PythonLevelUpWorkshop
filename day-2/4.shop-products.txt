@@ -1,0 +1,9 @@
+we have shop named digishop
+we have lots of product with id,name,price
+products id is just number like 1,2,3,...
+model this with object and class
+
+Class product
+object -> 1,"pen",2000
+object -> 2,"notebook",50000
+object -> 3,"eraser",4000

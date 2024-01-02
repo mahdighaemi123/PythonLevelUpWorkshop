@@ -1,0 +1,15 @@
+create temp converter cli like this:
+
+------------------------
+     Temp Converter
+------------------------
+Converter options:
+1. celsius to fahrenheit 
+2. fahrenheit to celsius
+------------------------
+> enter option: 1
+> enter celsius temp: 0
+0°C = 32°F
+> enter option: 2
+> enter fahrenheit temp: 32
+32°F = 0°C 
